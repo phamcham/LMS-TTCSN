@@ -1,0 +1,4 @@
+H:\LMS\DTO\bin\Debug\DTO.dll
+H:\LMS\DTO\bin\Debug\DTO.pdb
+H:\LMS\DTO\obj\Debug\DTO.dll
+H:\LMS\DTO\obj\Debug\DTO.pdb
